@@ -1,24 +1,33 @@
 # Credibility Inventory
 
-## Publications & Written Work
-- Deal Analyzer Template
-- Framework Documentation: "No Offer" Protocol, Pendulum Swing, Conservative Underwriting Architecture
+## Founder Profile
+- **Name:** Jen Baker
+- **Category Role:** Architect of Link-Arms Deal Architecture
+- **Experience:** 5+ years in creative finance real estate investing
+- **Deal Volume:** ~10 intentional personal deals per year by design
+- **Consulting Footprint:** 100+ deals coached, consulted on, or structured alongside other investors
 
-## Platforms & Media
-- Community-based coaching platform
-- Live deal scenario coaching calls
+## Core Proof Points
+- Built organic mentorship practice over 5 years without rigid curriculum or guru packaging
+- Integrates AI-assisted call critique (planned build) with real-time deal coaching
+- Teaches through live deal troubleshooting, whiteboard math, and call recording review
+- Consistently rejects "hope-based math" and high-pressure sales tactics
 
-## Documented Results
-- Student transformations via conservative underwriting and owner finance exits
-- Consistent deal closure through systematic screening
+## Transformation Signals
+- **Before:** "I get super anxious when it comes to the numbers part." / "I don't know how to structure terms."
+- **After:** "I understand. I just don't know how to get to that point." / "I'm going to let him chase me now."
+- **Outcome:** Students successfully run screening calls, identify delusional seller motivation, and hold frame without making premature offers.
 
-## Client Transformations
-- Jessica Vu: From overwhelmed beginner to confident deal screener using conservative math.
-- Elizabeth Adelman: Transitioned from guru-driven hustle to structured, adaptive mentorship.
-- Hayden Gibson, Terry B., Joe Barlow: Demonstrated successful deal acquisition through frame-first screening and Pendulum Swing negotiation.
+## Methodology Validation
+- Conservative underwriting (50–65% LTV) consistently prevents bad deals
+- "No Offer" protocol reduces seller resistance and increases collaborative closings
+- Link-Arms adaptive mentorship replaces script-reliance with capacity-aware confidence
 
-## Lived Experience
-- Built acquisition practice while operating as a mother and relational teacher.
-- Normalizes learning curve instead of performing expertise.
+## Status
+- **Formal Metrics:** Provisional (student ROI and time-to-first-deal tracking in development)
+- **Curriculum Steps:** Formalized in coaching practice, pending public documentation
+- **Next Validation Phase:** AI-assisted call critique integration and structured student surveys
 
-*Source: Fuller Extract, Aug–Sep 2026*
+---
+*InFLOW OS™ — Darwin Project*
+*inflowos.io*
