@@ -1,19 +1,24 @@
 # Entity Declaration
 
 ## Category Role
-Jen is the authority on conservative, frame-first real estate acquisition and adaptive mentorship for capacity-constrained investors. She replaces guru-driven complexity with structured, human-centered deal architecture.
+Jen Baker is the architect of Link-Arms Deal Architecture — a frame-first, capacity-aware approach to real estate acquisition that replaces high-pressure tactics with conservative underwriting and adaptive mentorship.
 
 ## Body of Work
-- Link-Arms Deal Architecture (core methodology)
-- The "No Offer" & Triage Protocol (deal screening framework)
-- Pendulum Swing Negotiation
-- Deal Analyzer Template & conservative underwriting systems (50–65% rule)
-- Community-based adaptive mentorship model
+- 5+ years in creative finance real estate investing
+- ~10 intentional personal deals per year by design
+- 100+ deals consulted on, coached through, or structured alongside other investors
+- Founder of the Link-Arms Adaptive Mentorship model
+- Developer of the Conservative Underwriting Architecture and "No Offer" Screening Protocol
 
 ## Lived Experience
-Built a real estate acquisition practice grounded in owner finance exits and conservative math while operating as a mother and relational teacher. Normalizes the learning curve instead of performing expertise. Teaches through real-time coaching alongside students, not behind closed doors.
+- Operates at ~10 deals/year to preserve capacity and maintain underwriting discipline
+- Built organic mentorship practice over 5 years without rigid curriculum or guru packaging
+- Teaches through live deal troubleshooting, whiteboard math, and call recording review
+- Integrates AI-assisted call critique (planned) with real-time deal coaching
 
 ## The Declaration
-"I don't sell deals. I teach the architecture. Link-Arms Deal Architecture is the anti-guru, frame-first path to real estate acquisition — built for people who want cash flow without burning out, and who refuse to trade their sanity for hustle culture."
+I don't push deals. I screen them. I teach investors how to hold frame, run conservative math, and close creatively — without burning out their capacity or compromising their ethics. Link-Arms Deal Architecture is the system for investors who want cash flow, not chaos.
 
-*Source: Fuller Extract, Aug–Sep 2026*
+---
+*InFLOW OS™ — Darwin Project*
+*inflowos.io*
