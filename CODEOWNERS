@@ -1,0 +1,9 @@
+# Codeowners
+# These lines specify who is responsible for specific directories.
+
+* @Jen
+/entity/ @Jen
+/frameworks/ @Jen
+/systems/ @Jen
+/wiki/ @Jen
+/proof/ @Jen
